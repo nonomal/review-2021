@@ -39,6 +39,7 @@
 | [2021 年终总结 - 时光飞逝的一年 - Muyun](https://muyun.work/2021-summary.html) | 360 | |
 | [2021 年终总结 - 老高的博客](https://blog.mute-g.com/post/work/summary-2021.html) | 249 | |
 | [2021 年终总结-JackLee](https://jacklee.club/%E6%80%BB%E7%BB%93/2021-12-31-2021%20%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93.html) | 暂无 | |
+| [2021 年终总结及 2022 的计划 - rxliuli blog](https://blog.rxliuli.com/p/971404f2f72c429083a614f8ee522237/) | 719 | [IA](https://web.archive.org/web/20221217074724/https://blog.rxliuli.com/p/971404f2f72c429083a614f8ee522237/) |
 | [2021 年读书记录 - Yiran's Blog](https://zdyxry.github.io/2021/12/31/2021-%E5%B9%B4%E8%AF%BB%E4%B9%A6%E8%AE%B0%E5%BD%95/) | 243 | |
 | [2021 总结 - EulerianMoe](https://eulerian.xyz/misc/2022/01/01/2021review.html) | 1214 | |
 | [2021 总结 - 桑弧蓬矢射四方](https://iphyer.github.io/blog/2021/12/31/MySummaryOF2021/) | 224 | |
@@ -59,7 +60,7 @@
 | [2021年度总结 - Bboysoul's Blog](https://www.bboy.app/2022/01/23/2021%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/) | 760 | |
 | [2021年度总结 - Jun's Blog](https://www.junz.org/post/2021_year_summary/) | 725 | |
 | [2021年度总结 - 咕咕三原小窝](https://xn--ehqz9kbvaa.wang/archives/861.html) | 849 | |
-| [2021年度总结——未来与过去的相交点 - CronfoxLabs](https://cronfox.2434.me/article/2021%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93%E2%80%94%E2%80%94%E6%9C%AA%E6%9D%A5%E4%B8%8E%E8%BF%87%E5%8E%BB%E7%9A%84%E7%9B%B8%E4%BA%A4%E7%82%B9) | 暂无 | |
+| [2021年度总结——未来与过去的相交点 - CronfoxLabs](https://cronfox.2434.me/article/2021%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93%E2%80%94%E2%80%94%E6%9C%AA%E6%9D%A5%E4%B8%8E%E8%BF%87%E5%8E%BB%E7%9A%84%E7%9B%B8%E4%BA%A4%E7%82%B9) | 1603 | |
 | [2021年总结 - ddadaal.me](https://ddadaal.me/articles/summary-for-2021/) | 400 | |
 | [2021年总结 - luozhiyun`s Blog](https://www.luozhiyun.com/archives/645) | 432 | |
 | [2021年我最爱的三个产品 - ice @ yaya](https://blog.yaya.pm/2021-fav-products) | 1109 | |
@@ -81,6 +82,7 @@
 | [2021年终总结 - 晓白博客](https://blog.chs.pub/p/end_of_2021/) | 1369 | |
 | [2021年终总结 – Frank's Weblog](https://nyan.im/p/2021-year-in-review) | 735 | |
 | [2021年终总结 – yearliny](https://yearliny.com/2021-annual-personal-summary/) | 1116 | |
+| [2021年终总结 与 2022新年展望 - YoungForest's blog](https://youngforest.github.io/2021/12/28/2021-summary-and-2022-resolutions/) | 1593 | |
 | [2021年终总结，向着2022前进 - 屹铭说](https://www.iccat.cn/2022/01/08/newyear.html) | 暂无 | |
 | [2021年终总结，继续进步，继续开拓-杨过](https://www.cnblogs.com/gxhao/p/15760426.html) | 暂无 | |
 | [2021年终总结：你所热爱的，就是你的生活 - Easton Man's Blog](https://blog.eastonman.com/blog/2022/01/end-of-year/) | 784 | |
@@ -119,6 +121,7 @@
 | [人生浪费指南 - 2021年终总结 - 查令十字街 84 号](https://www.javis.me/post/ri-chang/ren-sheng-lang-fei-zhi-nan-\|-2021nian-zhong-zong-jie) | 1127 | |
 | [你好 2022(2021 年终总结) - Jiajun的编程随想](https://jiajunhuang.com/articles/2021_12_30-hello_2022.md.html) | 146 | |
 | [你好，这是我的2021 - 梦幻辰风](https://www.mhcf.net/1143.html) | 1128 | |
+| [保持好奇，继续前行 —— 2021年度总结 - LGiki's Blog](https://lgiki.net/post/2021-review/) | 1583 | |
 | [再见 2021 - 迷茫且执着](https://ek1ng.com/2022/01/18/%E5%86%8D%E8%A7%812021_%E8%BF%B7%E8%8C%AB%E4%B8%94%E6%89%A7%E7%9D%80/) | 1143 | |
 | [再见，2021 —— 我的 2021 年度总结 - 宝硕博客](https://blog.baoshuo.ren/post/goodbye-2021/) | 1029 | |
 | [写在 2021 年末](https://caos.me/2021) | 449 | |
@@ -141,7 +144,7 @@
 | [小树的 2021 年终总结](https://www.yuque.com/yeshu/essay/eahurv) | 暂无 | |
 | [属于我的三年·第二年 - 欧雷](https://ourai.ws/posts/the-second-year-of-three-years-belonging-to-me/) | 398 | |
 | [年度报告 - 2021 - 远方 - FlyingSky's Blog](https://blog.fsky7.com/archives/218/) | 暂无 | |
-| [年终总结 - 回头看看我的 2021 - Zwh's Blog](https://blog.zwh.best/index.php/archives/18/) | 918 | |
+| [年终总结 - 回头看看我的 2021 - Zwh's Blog](https://xlog.zwh.moe/review-2021) | 918 | |
 | [年终总结2021 - [米随随] s5s5](https://s5s5.me/4029) | 1130 | |
 | [年终总结：2021年的一些回顾和2022年的一些小规划 - 程沛权 - 养了三只猫](https://chengpeiquan.com/article/2021-year-end-summary.html#%E5%8F%82%E4%B8%8E%E6%89%B6%E8%B4%AB) | 686 | |
 | [年终总结：真正告别2021 - Asnull](https://blog.lipux.cn/archives/331.html) | 20 | |
